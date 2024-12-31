@@ -2,7 +2,7 @@
 
 ## Live Website
 
-- [Link](https://harsh-sangwan2003.github.io/Travel-Website/)
+- [Link](https://harsh-sangwan2002.github.io/Travel-Website/)
 
 A quick guide to my Project ->
 
